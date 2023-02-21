@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+Методические указания.pdf
+/src/test/
