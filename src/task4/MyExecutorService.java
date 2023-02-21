@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 
-public class MyExecutorService implements ExecutorService{
+public class MyExecutorService implements ExecutorService {
     private ExecutorService executorService;
 
     public MyExecutorService(int threadsNumber){
