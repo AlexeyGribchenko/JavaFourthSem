@@ -1,0 +1,13 @@
+server:
+  servlet:
+    encoding:
+      force: true
+
+spring:
+  jackson:
+    serialization:
+      fail-on-empty-beans: false
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/postuserdb2"
+    username: "postgres"
+    password: "TheWitcher3"
