@@ -8,4 +8,4 @@
 - Practic 9 is about gradle
 - Practics 10-24 are about Spring Framework
 
-## Completed 20 / 24
+## Completed 21 / 24
