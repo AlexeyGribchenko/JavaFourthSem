@@ -1,0 +1,9 @@
+User{id= 5, first_name= Иван, last_name= Иванов, middle_name= Иванович, birth_date= 01.01.2000}
+lUser{id= 6, first_name= Иван, last_name= Иванов, middle_name= Иванович, birth_date= 01.01.2000}
+lUser{id= 7, first_name= Иван, last_name= Иванов, middle_name= Иванович, birth_date= 01.01.2000}
+lUser{id= 8, first_name= Виктор, last_name= Герасимов, middle_name= Дмитриевич, birth_date= 3}
+lUser{id= 9, first_name= Григорий, last_name= Иванов, middle_name= Иванович, birth_date= 01.01.2000}
+lUser{id= 10, first_name= Роман, last_name= Макаров, middle_name= Иванов, birth_date= 01.01.2000}
+lUser{id= 15, first_name= Александра, last_name= Иванович, middle_name= Иванов, birth_date= 01.01.2000}
+lUser{id= 16, first_name= Юрий, last_name= Иванович, middle_name= Иванов, birth_date= 01.01.2000}
+l
