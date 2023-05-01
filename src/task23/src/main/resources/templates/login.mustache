@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+    <form action="/login" method="post">
+        <div><label>User name: <input type="text" name="username"></label></div>
+        <div><label>Password: <input type="text" name="password"></label></div>
+        <input type="hidden" name="_csrf" value="{{_csrf.token}}" />
+        <div><label><input type="submit" value="sign in!"></label></div>
+    </form>
+</body>
+</html>

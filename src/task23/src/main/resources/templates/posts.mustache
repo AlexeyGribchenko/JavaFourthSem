@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+<h1>Посты</h1>
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Текст</th>
+        <th>Дата отправки</th>
+        <th>ID пользователя</th>
+    </tr>
+    {{#Data}}
+        <tr>
+            <th>{{id}}</th>
+            <th>{{text}}</th>
+            <th>{{creationDate}}</th>
+            <th>{{user.getId}}</th>
+        </tr>
+    {{/Data}}
+</table>
+</body>
+</html>
