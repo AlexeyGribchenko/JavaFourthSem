@@ -1,0 +1,1 @@
+User{id= 1, first_name= Иван, last_name= Иванович, middle_name= Иванов, birth_date= 01.01.2000}

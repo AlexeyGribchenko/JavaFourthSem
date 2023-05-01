@@ -15,6 +15,10 @@ spring:
     generate-ddl: true
     hibernate:
       ddl-auto: update
+  session:
+    jdbc:
+      initialize-schema: always
+      table-name: "SPRING_SESSION"
   mail:
     username: "alesha.gribchenko@yandex.ru"
     host: "smtp.yandex.ru"

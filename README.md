@@ -1,5 +1,5 @@
 # JavaFourthSem
-## There are my Java practics for 4th sem.
+## There are my Java practices for 4th sem.
 
 - Practice 1 is about lambda expressions
 - Practice 2 is about Stream API in Java
