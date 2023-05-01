@@ -1,8 +1,0 @@
-Post{id= 4, text= example, user_id= 7, creation_date= 01.01.2000}
-Post{id= 5, text= example, user_id= 7, creation_date= 01.01.2000}
-Post{id= 6, text= Hello_my_friend, user_id= 8, creation_date= 01.01.2000}
-Post{id= 7, text= How_are_you, user_id= 8, creation_date= 01.01.2000}
-Post{id= 8, text= ahahahahahahahahahahahaha, user_id= 7, creation_date= 01.01.2000}
-Post{id= 9, text= Всем привет!, user_id= 7, creation_date= 01.01.2000}
-Post{id= 10, text= example, user_id= 1, creation_date= 01.01.2000}
-Post{id= 11, text= test, user_id= 7, creation_date= 01.01.2000}

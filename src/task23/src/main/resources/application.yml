@@ -11,6 +11,10 @@ spring:
     url: "jdbc:postgresql://localhost:5432/postuserdb2"
     username: "postgres"
     password: "TheWitcher3"
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
   mail:
     username: "alesha.gribchenko@yandex.ru"
     host: "smtp.yandex.ru"
