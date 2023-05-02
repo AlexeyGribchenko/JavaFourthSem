@@ -1,0 +1,35 @@
+server:
+  servlet:
+    encoding:
+      force: true
+
+spring:
+  jackson:
+    serialization:
+      fail-on-empty-beans: false
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/postuserdb2"
+    username: "postgres"
+    password: "TheWitcher3"
+  jpa:
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+  session:
+    jdbc:
+      initialize-schema: always
+      table-name: "SPRING_SESSION"
+  mail:
+    username: "alesha.gribchenko@yandex.ru"
+    host: "smtp.yandex.ru"
+    password: "oqufsfjgkxjfkdwt"
+    port: "465"
+    protocol: "smtps"
+  mustache:
+    servlet:
+      expose-request-attributes: true
+
+
+directories:
+  post: "src\\main\\resources\\files\\posts.txt"
+  user: "src\\main\\resources\\files\\users.txt"
